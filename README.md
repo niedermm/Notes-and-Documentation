@@ -1,2 +1,2 @@
-# git-help-and-notes
-Documentation related to the use of github
+# Notes-and-Documentation
+Documentation related to the use of github, python, and other things
